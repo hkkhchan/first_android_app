@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String url ="http://dp-kkhchan1.rhcloud.com/";
+        String url ="http://hkkhchan.github.io/";
         view = (WebView) this.findViewById(R.id.webView);
         view.getSettings().setJavaScriptEnabled(true);
         view.setWebViewClient(new MyBrowser());
