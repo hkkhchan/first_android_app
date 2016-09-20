@@ -1,4 +1,4 @@
-package com.example.kcm_kennethchan.bookmark;
+package com.example_.hkkhchan.poll0215;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

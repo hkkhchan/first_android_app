@@ -1,4 +1,4 @@
-package com.example.kcm_kennethchan.bookmark;
+package com.example.hkkhchan.resume;
 
 import org.junit.Test;
 

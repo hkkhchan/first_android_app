@@ -3,8 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kcm_kennethchan.bookmark.MainActivity">
-
+    tools:context="com.example.hkkhchan.resume.MainActivity">
     <WebView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

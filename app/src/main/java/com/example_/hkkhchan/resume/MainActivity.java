@@ -1,4 +1,4 @@
-package com.example.kcm_kennethchan.bookmark;
+package com.example_.hkkhchan.resume;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -14,7 +14,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String url ="http://hkkhchan.github.io/";
+        //String url ="http://hkkhchan.github.io/";
+        String url ="file:///android_asset/index.html";
         view = (WebView) this.findViewById(R.id.webView);
         view.getSettings().setJavaScriptEnabled(true);
         view.setWebViewClient(new MyBrowser());
